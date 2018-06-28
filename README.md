@@ -12,7 +12,7 @@ For example:
 - ```videos/test/download_P01.sh``` will download only __test__ videos from subject __P01__
 - ```frames_rgb_flow/flow/download_train.sh``` will download all the __flow__ images contained in the __train__ set
 
-To run one script, simply invoke it via ```sh``` in any shell where ```wget``` is available
+To run one script, simply invoke it in any shell where ```wget``` is available
 
 The scripts take a single optional parameter, to specify a desired output path
 
