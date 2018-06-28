@@ -30,8 +30,10 @@ the script will create the following folder structure
 
 and will save P16's test videos to the above path
 
+If you will run the script again later using the same output path, already downloaded files will be skipped
+
 You can interrupt any script at any time and resume the download afterwards
 
-If you will run the script again later using the same output path, already downloaded files will be skipped
+Partially downloaded files will be kept and resumed by wget in order to allow you to download big files in multiple goes
 
 _Note: These scripts will work for Linux and Mac. For Windows users a bash installation should work_
