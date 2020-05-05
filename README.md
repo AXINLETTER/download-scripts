@@ -16,7 +16,7 @@ To run one script, simply invoke it in any shell where ```wget``` is available
 
 The scripts take a single optional parameter, to specify a desired output path
 
-If you do not specify any parameter, the scripts will assume the output path is```~/Download```
+If you do not specify any parameter, the scripts will assume the output path is```~/Downloads```
 
 A folder named __EPIC_KITCHENS_2018__ will be created at the output path as the main dataset folder
 
